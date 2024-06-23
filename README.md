@@ -71,7 +71,7 @@ Lista todos os aviões na fila de espera.
 void listarAvioes(FilaDecolagem *fila);
 ```
 
-### Características do Primeiro Aviãos
+### Características do Primeiro Avião
 Lista as características do primeiro avião na fila.
 ```c
 void caracteristicasPrimeiroAviao(FilaDecolagem *fila);
